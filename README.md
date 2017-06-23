@@ -1,2 +1,1 @@
-# asynit
-Asynchronous HTTP Request Testing Library for API or more...
+# MOVED to https://github.com/jolicode/asynit
